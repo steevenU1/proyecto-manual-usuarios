@@ -1,5 +1,5 @@
 <?php
-session_start();
+session_start();1
 if (!isset($_SESSION['id_usuario'])) {
     header("Location: index.php");
     exit;
