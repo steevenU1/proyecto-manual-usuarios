@@ -1,0 +1,20 @@
+[2026-01-20 17:14:50] WARN: Undefined variable $resSU in /home/u790246665/domains/lugaph.site/public_html/dashboard_unificado.php:305
+[20-Jan-2026 17:14:50 America/Mexico_City] PHP Warning:  Undefined variable $resSU in /home/u790246665/domains/lugaph.site/public_html/dashboard_unificado.php on line 305
+[20-Jan-2026 17:14:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/u790246665/domains/lugaph.site/public_html/dashboard_unificado.php:305
+Stack trace:
+#0 {main}
+  thrown in /home/u790246665/domains/lugaph.site/public_html/dashboard_unificado.php on line 305
+[2026-01-20 17:14:50] FATAL: Uncaught Error: Call to a member function fetch_assoc() on null in /home/u790246665/domains/lugaph.site/public_html/dashboard_unificado.php:305
+Stack trace:
+#0 {main}
+  thrown in /home/u790246665/domains/lugaph.site/public_html/dashboard_unificado.php:305
+[2026-01-20 17:14:54] WARN: Undefined variable $resSU in /home/u790246665/domains/lugaph.site/public_html/dashboard_unificado.php:305
+[20-Jan-2026 17:14:54 America/Mexico_City] PHP Warning:  Undefined variable $resSU in /home/u790246665/domains/lugaph.site/public_html/dashboard_unificado.php on line 305
+[20-Jan-2026 17:14:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/u790246665/domains/lugaph.site/public_html/dashboard_unificado.php:305
+Stack trace:
+#0 {main}
+  thrown in /home/u790246665/domains/lugaph.site/public_html/dashboard_unificado.php on line 305
+[2026-01-20 17:14:54] FATAL: Uncaught Error: Call to a member function fetch_assoc() on null in /home/u790246665/domains/lugaph.site/public_html/dashboard_unificado.php:305
+Stack trace:
+#0 {main}
+  thrown in /home/u790246665/domains/lugaph.site/public_html/dashboard_unificado.php:305

@@ -1,0 +1,12 @@
+[2025-09-01T12:09:34-06:00] EXC Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+#0 /home/u790246665/domains/lugaph.site/public_html/exportar_excel.php(99): mysqli->prepare()
+#1 {main}
+[2025-09-01T12:10:28-06:00] EXC Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+#0 /home/u790246665/domains/lugaph.site/public_html/exportar_excel.php(99): mysqli->prepare()
+#1 {main}
+[2025-09-01T12:22:09-06:00] EXC Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='
+#0 /home/u790246665/domains/lugaph.site/public_html/exportar_excel.php(99): mysqli->prepare()
+#1 {main}
+[2025-10-09T18:29:32-06:00] EXC Unknown column 'dv.imei2' in 'SELECT'
+#0 /home/u790246665/domains/lugaph.site/public_html/exportar_excel.php(129): mysqli->prepare()
+#1 {main}
